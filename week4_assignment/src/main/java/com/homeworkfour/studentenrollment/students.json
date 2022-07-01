@@ -1,0 +1,53 @@
+[
+
+	{"name": "Alicia", "surname": "Walker", "age": "21"},
+	{"name": "Bruce",  "surname": "Spencer", "age": "25"},
+	{"name": "Cecilia", "surname": "Presley", "age": "28"},
+	{"name": "Dennis", "surname": "Smith", "age": "34"},
+	{"name": "Elsa", "surname": "Ocean", "age": "43"},
+	{"name": "Frank", "surname": "Goldman", "age": "55"}
+
+
+]
+
+/*{
+	
+	"students": [
+	  {
+	    "name": "Alicia", 
+	    "surname": "Walker", 
+	    "age": "21"	  
+	  },
+	  
+	  {
+	    "name": "Bruce", 
+	    "surname": "Spencer", 
+	    "age": "25"	  
+	  },
+	  
+	  {
+	    "name": "Cecilia", 
+	    "surname": "Presley", 
+	    "age": "28"	  
+	  },
+	  
+	  {
+	    "name": "Dennis", 
+	    "surname": "Smith", 
+	    "age": "33"	  
+	  },	
+	  
+	  {
+	    "name": "Elsa", 
+	    "surname": "Ocean", 
+	    "age": "42"	  
+	  },		
+	  
+	  {
+	    "name": "Frank", 
+	    "surname": "Goldman", 
+	    "age": "53"	  
+	  },	
+	
+]}
+*/
