@@ -1,3 +1,3 @@
 ### SOS GAME
 
-It is the Java console application of the SOS Game.
+SOS Game is a console application written by using Java.
