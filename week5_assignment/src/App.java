@@ -19,12 +19,15 @@ public class App {
             Game.checkBoardSize(boardSize);
         } catch (IllegalArgumentException exception){
         	System.out.println("Invalid Range. The number must to be between 3 - 7!!\n"
-    				+ "Please write again: ");
-        	boardSize = scan.nextInt();
+    				+ "Game created minimum value: 3");
+        	//boardSize = scan.nextInt();
+		boardSize = 3;
         } catch (InputMismatchException exception) {
         	System.out.println("Invalid Range. The number must to be between 3 - 7!!\n"
     				+ "Game created minimum value: 3");
-        	boardSize = scan.nextInt();   
+		boardSize = 3;
+ //       	boardSize = scan.nextInt();   
+		scan = new Scanner(System.in);
         }
         game = new Game(boardSize);
 
